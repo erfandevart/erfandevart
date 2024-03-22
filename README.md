@@ -1,15 +1,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+dream+world+%3A)" alt="Typing SVG" /></a>
 
+
+
 # Hi there 👋
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=21F7A0&center=true&width=435&lines=%E1%9A%B1%E1%9A%A8%E1%9A%B7%E1%9A%BE%E1%9A%A8%E1%9A%B1%E1%9B%96%E1%9A%B2%E1%9B%AB%E1%9B%81%E1%9B%8A%E1%9B%AB%E1%9A%B2%E1%9B%9F%E1%9B%97%E1%9B%81%E1%9B%9C;%E1%9A%A8%E1%9A%B1%E1%9B%96%E1%9B%AB%E1%9B%83%E1%9B%9F%E1%9A%A2%E1%9B%AB%E1%9A%B2%E1%9A%A8%E1%9B%9A%E1%9B%97%E1%9B%AB%E1%9A%A8%E1%9A%BE%E1%9B%9E%E1%9B%AB%E1%9A%B1%E1%9B%96%E1%9A%A8%E1%9B%8A%E1%9B%9F%E1%9A%BE%E1%9A%A8%E1%9B%92%E1%9B%9A%E1%9B%96%E1%9B%AB%E1%9B%88%E1%9B%96%E1%9A%B1%E1%9B%8A%E1%9B%9F%E1%9A%BE)](https://git.io/typing-svg) -->
 
-## 📝My Recent Blog Posts:
+<!-- ## 📝My Recent Blog Posts: -->
 <!-- BLOGPOSTS:START -->
- - 🚀 [Security tips that we must follow in django](https://shahriaarrr.hashnode.dev/django-security-tips)
- - 💯 [10 Linux command that can cause destruction and should never be run](https://shahriaarrr.hashnode.dev/ten-dangerous-linux-commands)
- - 💫 [Introduction of Python frameworks for Back-End programming](https://shahriaarrr.hashnode.dev/python-web-frameworks)
- - 💯 [Hello World](https://shahriaarrr.hashnode.dev/hello-world)<!-- BLOGPOSTS:END -->
+<!-- - 🚀 [Security tips that we must follow in django](https://shahriaarrr.hashnode.dev/django-security-tips) -->
+<!-- - 💯 [10 Linux command that can cause destruction and should never be run](https://shahriaarrr.hashnode.dev/ten-dangerous-linux-commands) -->
+<!-- - 💫 [Introduction of Python frameworks for Back-End programming](https://shahriaarrr.hashnode.dev/python-web-frameworks) -->
+<!-- - 💯 [Hello World](https://shahriaarrr.hashnode.dev/hello-world)<!-- BLOGPOSTS:END -->
 
 ## Who i am?
 ```py
@@ -37,6 +39,13 @@ class Erfanmah7(Human):
     ]
     working_on = ["level up my skills", "Megavorse"]
 ```
+
+<img alt="github contribution snake animation" src="https://github.com/SamaneYaghoobi/SamaneYaghoobi/blob/output/github-contribution-grid-snake.svg">
+
+### Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 [![shahriaarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfanmah7&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/erfanmah7)
 
