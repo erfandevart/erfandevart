@@ -54,10 +54,15 @@ class Erfanmah7(Human):
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 ### Skills
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 <!-- [![shahriaarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfanmah7&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/erfanmah7) -->
