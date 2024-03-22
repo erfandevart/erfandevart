@@ -15,6 +15,13 @@
 <!-- - 💫 [Introduction of Python frameworks for Back-End programming](https://shahriaarrr.hashnode.dev/python-web-frameworks) -->
 <!-- - 💯 [Hello World](https://shahriaarrr.hashnode.dev/hello-world)<!-- BLOGPOSTS:END -->
 
+### 👩‍💻 About Me
+
+- 🚀 Front-end developer with a passion for coding and sleek interfaces.
+- 🧠 Proficient in project management, specializing in front-end technologies.
+- ⚡ Currently developing engaging user interfaces with a focus on innovation.
+- 💻 Actively learning and staying ahead in the dynamic world of front-end development.
+
 ## Who i am?
 ```py
 from Universe.Earth import Human
@@ -34,20 +41,24 @@ class Erfanmah7(Human):
         "music",
         "book", 
     ]
+
     Learning = [
         "Computer Engineering",
         "node-js",
         "express-js",
     ]
+
     working_on = ["level up my skills", "Megavorse"]
 ```
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 ### Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 <!-- [![shahriaarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfanmah7&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/erfanmah7) -->
 
