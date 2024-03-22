@@ -12,7 +12,7 @@
  - 💯 [Hello World](https://shahriaarrr.hashnode.dev/hello-world)<!-- BLOGPOSTS:END -->
 
 ## Who i am?
-py
+```py
 from Universe.Earth import Human
 
 class Erfanmah7(Human):
