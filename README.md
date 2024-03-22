@@ -15,7 +15,7 @@
 <!-- - 💫 [Introduction of Python frameworks for Back-End programming](https://shahriaarrr.hashnode.dev/python-web-frameworks) -->
 <!-- - 💯 [Hello World](https://shahriaarrr.hashnode.dev/hello-world)<!-- BLOGPOSTS:END -->
 
-### 👩‍💻 About Me
+### 🧑🏻‍💻 About Me
 
 - 🚀 Front-end developer with a passion for coding and sleek interfaces.
 - 🧠 Proficient in project management, specializing in front-end technologies.
