@@ -51,8 +51,6 @@ class Erfanmah7(Human):
     working_on = ["level up my skills", "Megavorse"]
 ```
 
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
-
 # 📌 Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
@@ -66,12 +64,14 @@ class Erfanmah7(Human):
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
 <!-- [![shahriaarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfanmah7&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/erfanmah7) -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanmah7&hide=Vim+Script,Vim+Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/erfanmah7) -->
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
 <table>
