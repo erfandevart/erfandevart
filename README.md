@@ -31,13 +31,15 @@ class Erfanmah7(Human):
     age = 23
     education = "BS student in Computer Engineering"
 
-    programming_lang = ["js", "dart"]
+    programming_lang = ["dart", "js"]
     frameworks = ["flutter", "react"]
 
     Favorites = [
-        "computer",
+        "macbook pro",
         "programming", 
         "Design",
+        "motion"
+        "Coffee",
         "music",
         "book", 
     ]
@@ -46,6 +48,10 @@ class Erfanmah7(Human):
         "Computer Engineering",
         "node-js",
         "express-js",
+        "swagger",
+        "redis",
+        "docker",
+        "fastify",
     ]
 
     working_on = ["level up my skills", "Megavorse"]
