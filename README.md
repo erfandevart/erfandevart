@@ -46,6 +46,7 @@ class Erfanmah7(Human):
 
     Learning = [
         "Computer Engineering",
+        "next-js",
         "node-js",
         "express-js",
         "swagger",
