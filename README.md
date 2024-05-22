@@ -75,6 +75,7 @@ class Erfanmah7(Human):
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=NPM)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)&nbsp;
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
