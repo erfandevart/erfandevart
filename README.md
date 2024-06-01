@@ -35,10 +35,7 @@ class Erfanmah7(Human):
     frameworks = ["flutter", "react"]
 
     Favorites = [
-        "macbook pro",
         "programming", 
-        "Design",
-        "motion"
         "Coffee",
         "music",
         "book", 
@@ -47,12 +44,6 @@ class Erfanmah7(Human):
     Learning = [
         "Computer Engineering",
         "next-js",
-        "node-js",
-        "express-js",
-        "swagger",
-        "redis",
-        "docker",
-        "fastify",
     ]
 
     working_on = ["level up my skills", "Megavorse"]
@@ -66,7 +57,7 @@ class Erfanmah7(Human):
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=ce6b9c)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=StyledComponents&logoColor=ce6b9c)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+<!-- ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp; -->
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
