@@ -31,8 +31,8 @@ class Erfanmah7(Human):
     age = 23
     education = "BS student in Computer Engineering"
 
-    programming_lang = ["dart", "js"]
-    frameworks = ["flutter", "react"]
+    programming_lang = ["js"]
+    frameworks = ["react"]
 
     Favorites = [
         "programming", 
