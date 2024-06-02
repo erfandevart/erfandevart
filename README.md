@@ -31,8 +31,8 @@ class Erfanmah7(Human):
     age = 23
     education = "BS student in Computer Engineering"
 
-    programming_lang = ["js"]
-    frameworks = ["react"]
+    programming_lang = ["dart", "js"]
+    frameworks = ["flutter", "react"]
 
     Favorites = [
         "programming", 
@@ -43,6 +43,7 @@ class Erfanmah7(Human):
 
     Learning = [
         "Computer Engineering",
+        "typescript"
         "next-js",
     ]
 
@@ -57,10 +58,10 @@ class Erfanmah7(Human):
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=ce6b9c)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=StyledComponents&logoColor=ce6b9c)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 <!-- ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp; -->
-<!-- ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp; -->
-<!-- ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; -->
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
