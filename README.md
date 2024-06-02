@@ -26,7 +26,7 @@
 ```py
 from Universe.Earth import Human
 
-class Erfanmah7(Human):
+class Erfanmah7(FrontEnd):
     full_name = "Erfan Mohiti"
     age = 23
     education = "BS student in Computer Engineering"
