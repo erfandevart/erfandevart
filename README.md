@@ -43,7 +43,7 @@ class Erfanmah7(Human):
 
     Learning = [
         "Computer Engineering",
-        "typescript"
+        "typescript",
         "next-js",
     ]
 
