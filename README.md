@@ -43,6 +43,7 @@ class Erfanmah7(FrontEnd):
 
     Learning = [
         "typescript",
+        "tailwind",
         "next-js",
     ]
 
