@@ -32,7 +32,7 @@ class Erfanmah7(FrontEnd):
     education = "BS student in Computer Engineering"
 
     programming_lang = ["js"]
-    frameworks = ["react"]
+    frameworks = ["Next"]
 
     Favorites = [
         "programming", 
@@ -43,7 +43,6 @@ class Erfanmah7(FrontEnd):
 
     Learning = [
         "typescript",
-        "next-js",
         "node-js",
     ]
 
