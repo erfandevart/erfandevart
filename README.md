@@ -32,7 +32,7 @@ class Erfanmah7(FrontEnd):
     education = "BS student in Computer Engineering"
 
     programming_lang = ["js"]
-    frameworks = ["Next"]
+    frameworks = ["next"]
 
     Favorites = [
         "programming", 
