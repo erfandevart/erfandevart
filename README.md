@@ -56,12 +56,14 @@ class Erfanmah7(FrontEnd):
 <!--  ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; -->
 <!--  ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=ce6b9c)&nbsp; -->
 <!--  ![StyledComponents](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=StyledComponents&logoColor=ce6b9c)&nbsp; -->
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss&logoColor=ce6b9c)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+<!-- ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss&logoColor=ce6b9c)&nbsp; -->
+<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
+<!-- ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp; -->
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp; -->
+<!-- ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp; -->
+<!-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; -->
+
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;  -->
 <!-- ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp; -->
 <!-- ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp; -->
@@ -71,6 +73,32 @@ class Erfanmah7(FrontEnd):
 <!-- ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp; -->
 <!-- ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=NPM)&nbsp; -->
 <!-- ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)&nbsp; -->
+
+<div align="left" style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
+  <a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS" style="outline: none; border: none;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" title="React" style="outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank" title="Redux" style="outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org/" target="_blank" title="GraphQL" style="outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js" style="outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git" style="outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+</div>
+
+
+
+
+
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
