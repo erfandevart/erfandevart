@@ -44,6 +44,7 @@ class Erfanmah7(FrontEnd):
     Learning = [
         "typescript",
         "express-js",
+        "three.js"
     ]
 
     working_on = ["level up my skills", "Megavorse"]
