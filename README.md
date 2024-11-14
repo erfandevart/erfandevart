@@ -76,7 +76,13 @@ class Erfanmah7(FrontEnd):
 <!-- ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)&nbsp; -->
 
 <div align="left" style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
-  <a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS" style="outline: none; border: none;">
+    <a href="https://www.docker.com/" target="_blank" title="Docker" style="outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+    <a href="https://git-scm.com/" target="_blank" title="Git" style="outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+    <a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS" style="outline: none; border: none;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank" title="React" style="outline: none; border: none;">
@@ -90,12 +96,6 @@ class Erfanmah7(FrontEnd):
   </a>
   <a href="https://nextjs.org/" target="_blank" title="Next.js" style="outline: none; border: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git" style="outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" title="Docker" style="outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
 </div>
 
