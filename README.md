@@ -94,7 +94,11 @@ class Erfanmah7(FrontEnd):
   <a href="https://git-scm.com/" target="_blank" title="Git" style="outline: none; border: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker" style="outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
 </div>
+
 
 
 
