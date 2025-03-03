@@ -31,7 +31,7 @@ class Erfanmah7(FrontEnd):
     age = 24
     education = "BS student in Computer Engineering"
 
-    programming_lang = ["js"]
+    programming_lang = ["ts"]
     frameworks = ["next"]
 
     Favorites = [
@@ -42,12 +42,11 @@ class Erfanmah7(FrontEnd):
     ]
 
     Learning = [
-        "typescript",
-        "express-js",
+        "nest.js",
         "three.js"
     ]
 
-    working_on = ["level up my skills", "Megavorse"]
+    working_on = ["level up my skills", "erfandevart"]
 ```
 
 # 📌 Skills
@@ -76,9 +75,9 @@ class Erfanmah7(FrontEnd):
 <!-- ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)&nbsp; -->
 
 <div align="left" style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
-    <a href="https://www.docker.com/" target="_blank" title="Docker" style="outline: none; border: none;">
+<!--     <a href="https://www.docker.com/" target="_blank" title="Docker" style="outline: none; border: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
+  </a> -->
     <a href="https://git-scm.com/" target="_blank" title="Git" style="outline: none; border: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -117,11 +116,11 @@ class Erfanmah7(FrontEnd):
 <div align="center">
 <table>
 <tr>
-<td align="center"><a href="https://github.com/erfanmah7"><img  style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanmah7&theme=github_dark&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></a></td>
- <td align="center"><a href="https://github.com/erfanmah7"><img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=erfanmah7&theme=github_dark&include_all_commits=true&count_private=true" alt="Stats"></a></td>
+<td align="center"><a href="https://github.com/erfandevart"><img  style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfandevart&theme=github_dark&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></a></td>
+ <td align="center"><a href="https://github.com/erfandevart"><img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=erfandevart&theme=github_dark&include_all_commits=true&count_private=true" alt="Stats"></a></td>
 </tr>
 <tr>
-  <td align="center" colspan="2"><a href="https://github.com/erfanmah7"><img style="width:100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=erfanmah7&bg_color=0D1117&color=58A5FE&line=58A5FE&point=FFFFFF" alt="Stats"></a></td>
+  <td align="center" colspan="2"><a href="https://github.com/erfandevart"><img style="width:100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=erfandevart&bg_color=0D1117&color=58A5FE&line=58A5FE&point=FFFFFF" alt="Stats"></a></td>
 </tr>
 </table>
 </div>
