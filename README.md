@@ -90,9 +90,9 @@ class Erfanmah7(FrontEnd):
   <a href="https://redux.js.org/" target="_blank" title="Redux" style="outline: none; border: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
-  <a href="https://graphql.org/" target="_blank" title="GraphQL" style="outline: none; border: none;">
+<!--   <a href="https://graphql.org/" target="_blank" title="GraphQL" style="outline: none; border: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://nextjs.org/" target="_blank" title="Next.js" style="outline: none; border: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   </a>
