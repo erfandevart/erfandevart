@@ -84,9 +84,9 @@ class Erfanmah7(FrontEnd):
     <a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS" style="outline: none; border: none;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" title="React" style="outline: none; border: none;">
+<!--   <a href="https://reactjs.org/" target="_blank" title="React" style="outline: none; border: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://redux.js.org/" target="_blank" title="Redux" style="outline: none; border: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
