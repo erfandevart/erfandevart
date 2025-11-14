@@ -53,6 +53,8 @@ class Erfanmah7(FrontEnd):
 ## 🎓 My Certificates
 
 [![OMP Certificate](https://img.shields.io/badge/OMP%20Certificate-Verified-blue)](https://omp.dub.ai/certificate/4lUVXH2Rnpko)
+[![LinkedIn Learning Certificate](https://img.shields.io/badge/LinkedIn%20Learning-Certificate-blue)](https://www.linkedin.com/learning/certificates/a50a0e4ebf7f54b29aadf655b56e8b813e92ae149389b3277609c70b7cc77f72?trk=share_certificate)
+
 
 ## 📌 Skills
 
