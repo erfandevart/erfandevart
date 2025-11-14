@@ -54,9 +54,7 @@ class Erfanmah7(FrontEnd):
 
 [![OMP Certificate](https://img.shields.io/badge/OMP%20Certificate-Verified-blue)](https://omp.dub.ai/certificate/4lUVXH2Rnpko)
 
----
-
-# 📌 Skills
+## 📌 Skills
 
 <!--  ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp; -->
 <!--  ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp; -->
